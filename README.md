@@ -1,1 +1,2 @@
-# CTF-Writeups
+# CTF Writeups
+Sharing is caring :heart:
