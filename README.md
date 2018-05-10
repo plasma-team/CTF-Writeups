@@ -9,9 +9,6 @@ Sharing is caring :heart:
 .
 ├── {year}
 │   └── {competition}
-│       ├── Cryptography
-│       ├── Forensics
-│       ├── Steganography
-│       └── Web
+│       └── {CTF_{team}_{competition}_{year}.pdf
 └── README.md
 ```
