@@ -2,7 +2,7 @@
 Sharing is caring :heart:
 
 ### List Competition
-- Coming Soon :construction:
+- CompfestX
 
 ### Writeups Documentation Structure
 ```
