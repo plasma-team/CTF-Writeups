@@ -11,5 +11,10 @@
   * [Forensic](hacker-class/forensic.md)
     * [Where This Photo Taken? \(50\)](hacker-class/forensic/where-this-photo-taken-50.md)
   * [Misc](hacker-class/misc.md)
-    * [Can You Copy the Flag?](hacker-class/misc/can-you-copy-the-flag.md)
+    * [Can You Copy the Flag? \(1\)](hacker-class/misc/can-you-copy-the-flag.md)
+  * [Reverse Engineering](hacker-class/reverse-engineering.md)
+    * [Rev1 \(472\)](hacker-class/reverse-engineering/rev1.md)
+  * [Pwn](hacker-class/pwn.md)
+    * [Buffer \(474\)](hacker-class/pwn/buffer-474.md)
+    * [Buffer 2 \(480\)](hacker-class/pwn/buffer-2-480.md)
 
