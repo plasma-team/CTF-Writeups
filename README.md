@@ -3,6 +3,7 @@ Sharing is caring :heart:
 
 ### List Competition
 - CompfestX
+- HackToday2018
 
 ### Writeups Documentation Structure
 ```
