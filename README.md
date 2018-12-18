@@ -5,6 +5,9 @@ Sharing is caring :heart:
 - CompfestX
 - HackToday2018
 - Inseclub 0x7e2
+- Kaspersky Industrial CTF
+- TUCTF 2018
+- X-MAS CTF
 
 ### Writeups Documentation Structure
 ```
