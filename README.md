@@ -8,6 +8,7 @@ Sharing is caring :heart:
 - Kaspersky Industrial CTF
 - TUCTF 2018
 - X-MAS CTF
+- Arkavidia 5.0
 
 ### Writeups Documentation Structure
 ```
